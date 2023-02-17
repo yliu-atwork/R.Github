@@ -1,2 +1,2 @@
-This is a text file I created.
-Now I am adding new text.
+This is a text file I created on 2/17/23.
+This repo has instructions on Git, Github, Rstudio interactions.
